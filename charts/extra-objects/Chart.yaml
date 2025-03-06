@@ -1,0 +1,7 @@
+apiVersion: v2
+name: extra-objects
+description: A Helm chart to instantiate objects from values
+
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
